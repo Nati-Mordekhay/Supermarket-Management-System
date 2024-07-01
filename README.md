@@ -12,7 +12,6 @@ Supermarket (SuperLee) managment system for inventory and suppliers, designed an
 
 Instructions (Hebrew) for using the system can be found [here](https://github.com/Nati-Mordekhay/Supermarket-Management-System/blob/main/docs/Instructions.pdf).
 
-![Login](https://github.com/Nati-Mordekhay/Supermarket-Management-System/assets/72460220/a05f57ba-f433-4097-a65a-4c0fbc4dd5d9)
 ![InventoryMenu](https://github.com/Nati-Mordekhay/Supermarket-Management-System/assets/72460220/24788da1-3c20-475c-953d-bb111c369503)
 ![FullInventory](https://github.com/Nati-Mordekhay/Supermarket-Management-System/assets/72460220/95c8fd1c-e497-403e-b3bb-6bfcd2beb242)
 ![ShortageReport](https://github.com/Nati-Mordekhay/Supermarket-Management-System/assets/72460220/3cbf4e63-2639-42f7-b43f-26106dd63cff)
