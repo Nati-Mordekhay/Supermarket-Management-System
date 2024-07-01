@@ -20,3 +20,13 @@ Instructions (Hebrew) for using the system can be found [here](https://github.co
 
 Applications ERD:
 ![ERD](https://github.com/Nati-Mordekhay/Supermarket-Management-System/assets/72460220/ad93733f-a18b-4cfb-a4ff-ca7d7ce25b08)
+
+Class Diagram:
+![Class Diagram](https://github.com/Nati-Mordekhay/Supermarket-Management-System/assets/72460220/de218813-6953-408c-8f5d-2bba39b54124)
+
+Sequence Diagrams:
+![Sequence Diagram 1](https://github.com/Nati-Mordekhay/Supermarket-Management-System/assets/72460220/ec6e1842-1c35-4fa0-882a-24e14b857c9d)
+![Sequence Diagram 2](https://github.com/Nati-Mordekhay/Supermarket-Management-System/assets/72460220/cd59c487-fdea-4835-a960-dad9c15e870d)
+![Sequence Diagram 3](https://github.com/Nati-Mordekhay/Supermarket-Management-System/assets/72460220/c546e381-e7d7-4973-b5e7-13009e7e6e0a)
+![Sequence Diagram 4](https://github.com/Nati-Mordekhay/Supermarket-Management-System/assets/72460220/f8b1a156-a413-4d56-bc6b-893a6802986e)
+![Sequence Diagram 5](https://github.com/Nati-Mordekhay/Supermarket-Management-System/assets/72460220/801bed7b-6389-4458-9b4f-be293c8bee73)
